@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>deeptieba-boot</artifactId>
+    <artifactId>deepnews-boot</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>deepledger-boot</name>
     <description>deepledger-boot</description>
