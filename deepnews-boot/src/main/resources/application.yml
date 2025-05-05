@@ -1,11 +1,11 @@
 server:
-  port: 18090
+  port: 8080
   servlet:
     context-path: /api
 
 deepseek:
   url: https://api.deepseek.com/v1/chat/completions
-  key: sk-060b4b0e2fee44ed98f8a986604ccd4c
+  key: sk-ec6069d7d91744ff8613b29a309081bc
 
 spring:
   datasource:

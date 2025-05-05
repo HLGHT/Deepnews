@@ -14,7 +14,7 @@ import java.util.Date;
 
 @Data
 @Builder
-@TableName("channel")
+@TableName("news")
 @NoArgsConstructor
 @AllArgsConstructor
 public class News {
