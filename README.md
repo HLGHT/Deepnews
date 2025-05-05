@@ -70,9 +70,8 @@ java -jar target/deepnews-boot.jar
 
 ### 5. 访问接口
 应用启动后，默认访问地址：
-- 接口文档：http://localhost:8080/swagger-ui.html (如果已集成 Swagger)
-- 最新中国报道：http://localhost:8080/deep/latest
-- 热点报道：http://localhost:8080/deep/hot
+- 最新国内报道：http://localhost:8080/deep/latest
+- 热点新闻报道：http://localhost:8080/deep/hot
 - 问答接口：http://localhost:8080/deep/answer?question=你的问题
 
 
