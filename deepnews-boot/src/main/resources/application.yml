@@ -5,7 +5,7 @@ server:
 
 deepseek:
   url: https://api.deepseek.com/v1/chat/completions
-  key: sk-ec6069d7d91744ff8613b29a309081bc
+  key: your_key
 
 spring:
   datasource:
